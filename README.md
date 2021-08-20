@@ -2,11 +2,11 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=itsmeshibintmz.Acer-Nitro-5-AN515-54-Big-Sur) 
 
+macOS Big Sur on Acer Nitro 5 AN515-54 with OpenCore 0.7.2 EFI folder.
+
 # Screenshots
 <a href="https://github.com/itsmeshibintmz/Acer-Nitro-5-AN515-54-Big-Sur/blob/main/Screenshots/Screen%20Shot%202021-08-19%20at%206.08.25%20AM.png
 "> <img src="Screenshots/Screen Shot 2021-08-19 at 6.08.25 AM.png" alt="light mode"></a>
-
-macOS Big Sur on Acer Nitro 5 AN515-54 with OpenCore 0.7.2 EFI folder.
 
 ## Configuration
 
