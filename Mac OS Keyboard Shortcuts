@@ -1,0 +1,31 @@
+# These are a few Keyboard shortcuts and Terminal Hacks I use with hackintosh.
+
+Mac Tips 💡
+- [ ] Windows + H - Hide App
+- [ ] Windows + Shift + 5 - Screenshot 
+- [ ] Windows + Tab - Switch between apps
+- [ ] Windows + Shift + Tab - Switch between apps in reverse Order
+- [ ] Windows + ~ - Switch Between Windows of Same Apps ( like Terminal Windows, Browser Windows etc... )
+
+In Browser 💎
+- [ ] Windows + Shift + ] - Next Tab
+- [ ] Windows + Shift + [ - Previous Tab
+- [ ] Windows + W - Close Tab
+- [ ] Windows + T - Open New Tab
+- [ ] Windows + O - Open a file (also available in any Application)
+- [ ] Windows + R - Refresh
+
+- [ ] Windows + Shift + G - Go to Folder ( Eg:~/Library/Safari)
+- [ ] Windows + Space - Spotlight Search
+- [ ] Three Finger Swipe (Trackpad ) - Move a window
+- [ ] Windows + . - Cancel the dialog box
+- [ ] Windows + Ctrl + Space - Emoji Picker 😇
+- [ ] Windows + Q - Close Apps Instantly
+
+Terminal Hacks 💻
+- [ ] caffeinate - Caffeine Mode as in Android
+- [ ] sudo nvram StartupOnMute=%00 (Plays startup sound)
+- [ ] %01 - Mute StartUp sound
+- [ ] defaults write com.apple.SoftwareUpdate ScheduleFrequency -int 7 ( change value to any day you want like 1(check for update every day,14…) - Check for Updates Interval Update
+- [ ] defaults write com.apple.screencapture type JPG - Screenshot format ( can change JPG to : PNG, TIFF, PDF)
+- [ ] 
