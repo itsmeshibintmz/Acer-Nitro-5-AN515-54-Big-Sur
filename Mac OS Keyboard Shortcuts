@@ -5,7 +5,9 @@ Mac Tips 💡
 - [ ] Windows + Shift + 5 - Screenshot 
 - [ ] Windows + Tab - Switch between apps
 - [ ] Windows + Shift + Tab - Switch between apps in reverse Order
-- [ ] Windows + ~ - Switch Between Windows of Same Apps ( like Terminal Windows, Browser Windows etc... )
+- [ ] Windows + ~ - Switch Between Windows of Same Apps ( like Terminal     Windows, Browser Windows etc... )
+- [ ] Ctrl + Windows + Q - Lock Device
+- [ ] Shift + Windows + Q - Logout Device
 
 In Browser 💎
 - [ ] Windows + Shift + ] - Next Tab
@@ -16,7 +18,6 @@ In Browser 💎
 - [ ] Windows + R - Refresh
 - [ ] Ctrl + Windows + Q - Lock Device
 - [ ] Shift + Windows + Q - Logout device
-
 - [ ] Windows + Shift + G - Go to Folder ( Eg:~/Library/Safari)
 - [ ] Windows + Space - Spotlight Search
 - [ ] Three Finger Swipe (Trackpad ) - Move a window
@@ -30,4 +31,7 @@ Terminal Hacks 💻
 - [ ] %01 - Mute StartUp sound
 - [ ] defaults write com.apple.SoftwareUpdate ScheduleFrequency -int 7 ( change value to any day you want like 1(check for update every day,14…) - Check for Updates Interval Update
 - [ ] defaults write com.apple.screencapture type JPG - Screenshot format ( can change JPG to : PNG, TIFF, PDF)
-- [ ] 
+- [ ] Encrypt and Lock a file: zip -e [name of output file/folder].zip [location of file/folder-folder must be compressed to a zip, the file to be dragged to terminal]
+- [ ] Screen Capture Disable Shadow - defaults write com.apple.screencapture disable-shadow -bool TRUE; killall SystemUIServer
+- [ ] To play Startup Sound Mac - sudo nvram StartupMute=%00 
+	and to Mute Back change value to 01
