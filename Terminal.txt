@@ -15,11 +15,14 @@ end
 
 Screenshot is provided in the HomePage of this repository.
 
-
-##Bundle brew
+Bundle brew
 // Shows all brew installs
 
 Terminal -
 1: brew bundle 
 2: brew bundle dump --describe 
 3: cat Brewfile 
+
+Bundle Usage:brew
+1: https://gist.github.com/ChristopherA/a579274536aab36ea9966f301ff14f3f
+2: https://sa.ndeep.me/post/how-to-backup-and-restore-your-homebrew-packages
