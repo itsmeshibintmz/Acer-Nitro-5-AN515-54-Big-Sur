@@ -1,0 +1,16 @@
+1: Install Homebrew from brew.sh
+2: Install fish shell by brew install fish 
+3: Change default shell to fish shell by chsh -s /usr/local/bin/fish
+4: Install lolcat with brew : brew install lolcat
+5: Install cowsay with brew : brew install cowsay fortune 
+6: Add cowsay to startup of Terminal by : vim ~/.config/fish/config
+    if status is-interactive
+    # Commands to run in interactive sessions can go here
+    function fish_greeting
+        set -l toon (random choice {default,bud-frogs,dragon,dragon-and-cow,elephant,moose,stegosaurus,tux,vader})
+         fortune -s | cowsay -f $toon | lolcat
+        echo Welcome _cafe_phile_
+    end
+end
+
+Screenshot is provided in the HomePage of this repository.
