@@ -14,3 +14,12 @@
 end
 
 Screenshot is provided in the HomePage of this repository.
+
+
+##Bundle brew
+// Shows all brew installs
+
+Terminal -
+1: brew bundle 
+2: brew bundle dump --describe 
+3: cat Brewfile 
