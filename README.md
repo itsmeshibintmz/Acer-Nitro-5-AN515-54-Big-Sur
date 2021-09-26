@@ -75,9 +75,9 @@ macOS Big Sur on Acer Nitro 5 AN515-54 with OpenCore 0.7.2 EFI folder.
 
 ## Credits
 
-- Thanks to [powerBall253](https://github.com/PowerBall253/AN515-54-Hackintosh) for providing basic concepts and all necessary information.
 - Thanks to [Hoang63X](https://github.com/Hoang63X/AN515-54-51X1-Hackintosh) for providing their configuration, which helped me solve various issues.
 - Thanks to [Acidanthera](https://github.com/acidanthera) for providing [AppleALC](https://github.com/acidanthera/AppleALC), [AppleSupportPkg](https://github.com/acidanthera/AppleSupportPkg),  [Lilu](https://github.com/acidanthera/Lilu), [OcBinaryData](https://github.com/acidanthera/OcBinaryData), [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg), [VirtualSMC](https://github.com/acidanthera/VirtualSMC), [VoodooInput](https://github.com/acidanthera/VoodooInput), [VoodooPS2](https://github.com/acidanthera/VoodooPS2), and [WhateverGreen](https://github.com/acidanthera/WhateverGreen).
+- Thanks to [powerBall253](https://github.com/PowerBall253/AN515-54-Hackintosh) for providing basic concepts and all necessary information.
 - Thanks to [alexandred](https://github.com/alexandred) for providing [VoodooI2C](https://github.com/alexandred/VoodooI2C).
 - Thanks to [Sniki](https://github.com/Sniki) for providing [OS-X-USB-Inject-All](https://github.com/Sniki/OS-X-USB-Inject-All).
 - Thanks to [corpnewt](https://github.com/corpnewt) for providing [USBMap](https://github.com/corpnewt/USBMap) and [ProperTree](https://github.com/corpnewt/ProperTree).
