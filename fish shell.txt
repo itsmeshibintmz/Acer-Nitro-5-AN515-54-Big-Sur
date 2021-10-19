@@ -1,4 +1,4 @@
-1: install ohmyfish: -curl -L https://get.oh-my.fish | fish
+1: install ohmyfish: curl -L https://get.oh-my.fish | fish
 2: To update ohmyfish: omf update 
 3: To list installed ohmyfish packages: omf list 
 4: To list available themes: omf theme
