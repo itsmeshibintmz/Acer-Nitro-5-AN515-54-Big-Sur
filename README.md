@@ -24,6 +24,8 @@ macOS Big Sur on Acer Nitro 5 AN515-54 with OpenCore 0.7.2 EFI folder.
 
 <a href="https://github.com/itsmeshibintmz/Acer-Nitro-5-AN515-54-Big-Sur/blob/main/Screenshots/Screen%20Shot%202021-10-19%20at%206.36.47%20PM.png"> <img src="Screenshots/Screen Shot 2021-10-19 at 6.36.47 PM.png" alt="CPU Score"></a>
 
+<a href="https://github.com/itsmeshibintmz/Acer-Nitro-5-AN515-54-Big-Sur/blob/main/Screenshots/Screen%20Shot%202021-10-19%20at%206.36.57%20PM.png"> <img src="Screenshots/Screen Shot 2021-10-19 at 6.36.57 PM.png" alt="Open CL Score"></a>
+
 ## Configuration
 
 | Specifications      | Details                                            |
