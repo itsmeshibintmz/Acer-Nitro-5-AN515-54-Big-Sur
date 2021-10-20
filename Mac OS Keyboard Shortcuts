@@ -22,6 +22,8 @@ In Browser 💎
 - [ ] Windows + T - Open New Tab
 - [ ] Windows + O - Open a file (also available in any Application)
 - [ ] Windows + R - Refresh
+- [ ] Shift + Windows + T - Reopen closed window
+
 - [ ] Ctrl + Windows + Q - Lock Device
 - [ ] Shift + Windows + Q - Logout device
 - [ ] Windows + Shift + G - Go to Folder ( Eg:~/Library/Safari)
