@@ -41,5 +41,4 @@ Terminal Hacks 💻
 - [ ] defaults write com.apple.screencapture type JPG - Screenshot format ( can change JPG to : PNG, TIFF, PDF)
 - [ ] Encrypt and Lock a file: zip -e [name of output file/folder].zip [location of file/folder-folder must be compressed to a zip, the file to be dragged to terminal]
 - [ ] Screen Capture Disable Shadow - defaults write com.apple.screencapture disable-shadow -bool TRUE; killall SystemUIServer
-- [ ] To play Startup Sound Mac - sudo nvram StartupMute=%00 
-	and to Mute Back change value to 01
+
