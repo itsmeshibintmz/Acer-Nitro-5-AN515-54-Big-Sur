@@ -59,7 +59,7 @@ macOS Big Sur on Acer Nitro 5 AN515-54 with OpenCore 0.7.2 EFI folder.
 
 ## Installation
 
-## How To Install
+### How To Install
 
 - Format your USB "non-bootable" using RUFUS and delete any leftover in USB(autoruns).
 - Create directory "EFI" in your EFI Partition (eg. Pendrive or Haarddrive).
