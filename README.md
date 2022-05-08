@@ -61,6 +61,8 @@ If you still want to use an external monitor, you can by a USB 3.0 to HDMI adapt
 
 The one I'm currently using is: https://www.amazon.in/dp/B013G4CJM8/?coliid=I21IXZ0W5ZAFHX&colid=IWBALZYIADBW&psc=0&ref_=lv_ov_lig_dp_it
 
+If anyone interested to buy, DM Me on any of my social mentioned in Profile. I have one to sell. 
+
 ## Installation
 
 ### How To Install
