@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=itsmeshibintmz.Acer-Nitro-5-AN515-54-Big-Sur) 
 
-[![Github stats](https://img.shields.io/github/downloads/itsmeshibintmz/Acer_Nitro_5_AN515_54_Hackintosh/total.svg?style=for-the-badge&color=red)](https://somsubhra.github.io/github-release-stats/?username=itsmeshibintmz&repository=Acer_Nitro_5_AN515_54_Hackintosh)
+[![Github stats](https://img.shields.io/github/downloads/itsmeshibintmz/Acer-Nitro-5-AN515-54-Hackintosh/total.svg?style=for-the-badge&color=red)](https://somsubhra.github.io/github-release-stats/?username=itsmeshibintmz&repository=Acer-Nitro-5-AN515-54-Hackintosh)
 
 macOS Big Sur on Acer Nitro 5 AN515-54 with OpenCore 0.7.2 EFI folder.
 
