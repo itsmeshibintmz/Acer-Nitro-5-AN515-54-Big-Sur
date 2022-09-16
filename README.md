@@ -66,6 +66,7 @@ macOS Big Sur on Acer Nitro 5 AN515-54 with OpenCore 0.7.2 EFI folder.
 
 - [ ] GTX 1650 (macOS does not support recent Nvidia GPUs).
 - [ ] HDMI port (since it's connected to the GTX 1650).
+- [ ] Micron 2200 series SSD won't support. Have to disable in BIOS before booting.
 
 If you still want to use an external monitor, you can by a USB 3.0 to HDMI adapter.
 
