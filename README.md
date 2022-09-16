@@ -80,7 +80,7 @@ If anyone interested to buy, DM Me on any of my social mentioned in Profile. I h
 - Format your USB "non-bootable" using RUFUS and delete any leftover in USB(autoruns).
 - Create directory "EFI" in your EFI Partition (eg. Pendrive or Haarddrive).
 - Clone this repo and paste contents of "EFI" directory (BOOT and OC) onto created directory.
-- Download [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to generate unique SMBIOS information. Run it and select Generate SMBIOS, as model sekect MacBookPro16,4.
+- Download [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to generate unique SMBIOS information. Run it and select Generate SMBIOS, as model select MacBookPro16,4.
 - Open config.plist with [ProperTree](https://github.com/corpnewt/ProperTree) and go to platforminfo > Generic. Set MLB( Board Serial), SystemSerialNumber(Serial), and SystemUUID (SmUUID) to generate values.
 - Boot it!.
 
