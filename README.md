@@ -44,7 +44,7 @@ macOS Big Sur on Acer Nitro 5 AN515-54 with OpenCore 0.7.2 EFI folder.
 | Processor           | Intel® Core™ i5-9300H                              |
 | Graphics            | Intel® UHD Graphics 630 & Nvidia GeForce® GTX 1650 |
 | RAM                 | 16GB DDR4-2666Mhz                                  |
-| Disk                | Micron 2200 1TBb PCIe® NVMe™ & 512 GB WDC SSD      |
+| Disk                | Micron 2200 1TBb PCIe® NVMe™ & KIOXIA KXG60PNV512G NVME 512 GB SSD      |
 | Audio               | Realtek HD Audio ALC255                            |
 | Wifi                | Intel(R) Wireless-AC 9560 160MHz                   |
 | Ethernet            | RealTek RTL8168/8111 PCI-E Gigabit Ethernet        |
