@@ -5,6 +5,7 @@
 4: Install lolcat with brew : brew install lolcat
 5: Install cowsay with brew : brew install cowsay fortune 
 7: Combine 4,5 Steps and import andinstall all brew softwares I've already installed : brew bundle (Downlod brewfile from repository and type command from the location where brewfile is copied Eg: copy brewfile to Downloads. Open Terminal in Downloads folder and type : brew bundle )
+In our case : Either rename it to Brewfile, or run brew bundle --file=Brewfile.txt instead.
 6: Add cowsay to startup of Terminal by : vim ~/.config/fish/config.fish
     if status is-interactive
     # Commands to run in interactive sessions can go here
